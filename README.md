@@ -4,4 +4,4 @@
 Код из репозитория можно скопировать в онлайн-компилятор или в среду разработки (для Python 3.0 и старше)
 Инструкия по работе будет выведена в консоль
 
-![Скриншот тестов]([https://github.com/holodnyisiemens/2-lab/raw/2-lab/тесты.png](https://github.com/holodnyisiemens/2-lab/blob/ebbf54661c54384bcd021321b62da7429c43b84b/%D1%82%D0%B5%D1%81%D1%82%D1%8B.png))
+![Скриншот тестов](https://github.com/holodnyisiemens/2-lab/blob/main/тесты.png)
